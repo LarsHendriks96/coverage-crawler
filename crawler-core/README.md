@@ -1,0 +1,1 @@
+[comment]: <> (TODO: mention that this is an opinionated library)
